@@ -60,6 +60,7 @@ note1 = new Note(myNoteSheet, 1011, 1101, "This is the first new note");
 note2 = new Note(myNoteSheet, 1010, 1110, "This is the second new note");
 note3 = new Note(myNoteSheet, 1110, 1000, "This is the third new note");
 note4 = new Note(myNoteSheet, 1101, 1001, "This is the fourth new note");
+note5 = new Note(myNoteSheet, 1011, 1110, "This is the fifth new note");
 
 myNoteSheet.printNotes();
 console.log("\nPrinting note1:");
@@ -68,3 +69,6 @@ console.log(note1);
 // Get the noteSheetID for the NoteSheet that the Note belongs to
 console.log("\nPrinting the noteSheetID that note1 belongs to:");
 console.log(note1.noteSheet.noteSheetID);
+
+// still need an Edit note method?
+
