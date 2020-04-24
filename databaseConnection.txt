@@ -1,0 +1,18 @@
+<?php
+
+// Establish the database connection
+include "helper.php";
+$db = connectToDatabase(DBDeets::DB_NAME_G7);
+if($db == NULL) { die("<p>Connection Error: " . $stmt->error . "</p></body></html>\n"); }
+
+// Prepare and execute a query for the 
+$stmt = simpleQuery($db, //query goes here);
+if($stmt == NULL) { die("<p>SQL Query Error: " . $stmt->error . "</p></body></html>\n"); }
+
+// Bind variables to the results in same order as simpleQuery
+$stmt->bind_result(//bind result variables go here);
+
+// Close the database connection
+$stmt->close();
+$db->close();
+?>
