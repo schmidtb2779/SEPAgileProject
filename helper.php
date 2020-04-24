@@ -1,8 +1,8 @@
 <?php
 abstract class DBDeets {
   const DB_NAME_G7 = 'G7AgileExperience';
-  const DB_USER = 'G7_Admin';
-  const DB_PW = 'aexpBrandon';
+  const DB_USER = 'g7AppUser';
+  const DB_PW = 'aug7';
   const DB_SILENT_FAIL = FALSE;
 }
 
