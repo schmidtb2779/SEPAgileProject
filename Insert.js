@@ -4,8 +4,8 @@ var mysql = require('mysql')
 // Create connection variable
 var con = mysql.createConnection({
     host:"144.13.22.59:3306",
-    user:"G7_Admin",
-    password:"aexpBrandon",
+    user:"g7AppUser",
+    password:"aug7",
     database:"G7AgileExperience"
 })
 
