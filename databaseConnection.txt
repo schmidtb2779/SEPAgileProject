@@ -16,3 +16,4 @@ $stmt->bind_result(//bind result variables go here);
 $stmt->close();
 $db->close();
 ?>
+
