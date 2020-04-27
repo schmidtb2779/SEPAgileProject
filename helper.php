@@ -1,22 +1,24 @@
 <?php
 abstract class DBDeets {
-  const DB_NAME_G7 = 'G7AgileExperience';
-  const DB_USER = 'g7AppUser';
-  const DB_PW = 'aug7';
+  const DB_NAME_G7 = "G7AgileExperience";
+  const DB_USER = "g7AppUser";
+  const DB_PW = "aug7";
   const DB_SILENT_FAIL = FALSE;
+
 }
 
-function connectToDatabase($databaseName) {
+function connectToDatabase() {
+
   // Attempt to connect using the constants from above 
-  $db = new mysqli('localhost', DBDeets::DB_USER, DBDeets::DB_PW, $databaseName);
+  $db = new mysqli("localhost", DBDeets::DB_USER, DBDeets::DB_PW, DBDeets::DB_NAME_G7, 3306);
 
   // Detect and report any errors (if SILENT_FAIL is not true)
   if ($db->connect_errno && !DBDeets::DB_SILENT_FAIL) {
-    echo "<!-- FAILED DB CONNECT: ($db->connect_errno) $db->connect_error -->\n";
+    echo "<!-- FAILED DB CONNECT: -->\n";
   }
-
   // Return the handle to the mysql connection (which may be in an error state)
   return $db;
+
 }
 
 function simpleQuery($db, $query) {
@@ -35,6 +37,7 @@ function simpleQuery($db, $query) {
     }
     return null;
   }
+
 
   // If it is a SELECT query, cache the results for quick access
   if(strpos($query, 'SELECT') !== false) {
