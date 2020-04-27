@@ -19,10 +19,27 @@ $stmt1->bind_result($studentID, $studentName); //CHANGE THIS LINE TO RENAME QUER
 //place your html body here...
 
 //use something like this whenever you want to display the data from database
+
+//show data results as drop down options
+    $sql = "SELECT idStudent, fullName FROM Student";
+    $result = $db->query($sql);
+    // Perform query
+    if ($result) {
+        echo "Returned rows are: " . $result -> num_rows . "<br>";
+        echo "<select id='studentSelection' name='studentSelection'>";
+
+    while ($row = $result -> fetch_row()) {
+        echo "<option value=" . $row[0] . ">" . $row[1] . "</option>";
+    }
+    echo "</select>"; 
+    } 
+    
 /* fetch values */
 while ($stmt1->fetch()) {
     echo "\n" . $studentID . $studentName;
 }
+
+
 
 //continue the html body...
 
