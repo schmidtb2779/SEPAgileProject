@@ -39,8 +39,8 @@ Visual Studio Code Extensions:
 ER Diagram: https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
 
   
-Database Build Instructions for Tables:                  
-https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database%20Build%20Instructions
-
-Database Build Instructions for Table Data:                   
-https://github.com/schmidtb2779/SEPAgileProject/tree/master/sql_scripts
+Database Build Instructions:
+  1.) Create database and tables in MySQL Workbench by running the script in MySQL:
+          https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database%20Build%20Instructions
+  2.) After tables have been created, load the table data by running these scripts:
+          https://github.com/schmidtb2779/SEPAgileProject/tree/master/sql_scripts
