@@ -9,25 +9,25 @@ Goal: Design a fully functioning system that allows professors and student instr
 
 
 Group Members:
-  Kendra Aumann-Weyenberg (Scrum Master)
-  Brandon Schmidt (Tech Lead)
-  Libby Walther (Product Owner)
-  Tanner Bakken
-  Adam Crane
-  Michael Lee
+  Kendra Aumann-Weyenberg (Scrum Master),
+  Brandon Schmidt (Tech Lead),
+  Libby Walther (Product Owner),
+  Tanner Bakken,
+  Adam Crane,
+  Michael Lee, and
   Casey Reiner
 
 
 Completed Functionality:
-  Search by Student Name, Professor Name, or Class
-  Grade and re-grade student labs using a point score within a range or Complete/Incomplete value
-  View, enter, and delete lab notes
+  Search by Student Name, Professor Name, or Class,
+  Grade and re-grade student labs using a point score within a range or Complete/Incomplete value,
+  View, enter, and delete lab notes, and
   View and check off skills that are stored in a skills list for each class section
   
   
 Software Used:
-  MySQL Workbench with a Maria Database
-  FileZilla to access the server
+  MySQL Workbench with a Maria Database,
+  FileZilla to access the server, and 
   Visual Studio Code (php, JavaScript, HTML) for web pages and database interactions
   
 Build Instructions:
