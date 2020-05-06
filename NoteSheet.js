@@ -1,3 +1,6 @@
+// Outline of the noteSheet class. Most of the code was merged and used in the gradelab.php page. This file is not used in our fina
+//  program. This was made before we had the gradeLab.php page, so it was saved as its own file. 
+
 class NoteSheet{
 
     constructor(labID, noteSheetID){
