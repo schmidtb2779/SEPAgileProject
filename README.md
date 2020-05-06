@@ -39,5 +39,8 @@ Visual Studio Code Extensions:
 ER Diagram: https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
 
   
-Database Build Instructions for Tables: https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database%20Build%20Instructions
-Database Build Instructions for Table Data: https://github.com/schmidtb2779/SEPAgileProject/tree/master/sql_scripts
+Database Build Instructions for Tables: 
+https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database%20Build%20Instructions
+
+Database Build Instructions for Table Data: 
+https://github.com/schmidtb2779/SEPAgileProject/tree/master/sql_scripts
