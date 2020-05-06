@@ -30,5 +30,11 @@ Software Used:
   FileZilla to access the server, and 
   Visual Studio Code (php, JavaScript, HTML) for web pages and database interactions
   
+Visual Studio Code Extensions:
+  ESLint by Dirk Baeumer,
+  GitHub by KristerPeter, and
+  GitHub Pull Requests and Issues by GitHub
+  
+  
 Build Instructions:
   (coming soon)
