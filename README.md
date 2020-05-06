@@ -35,6 +35,9 @@ Visual Studio Code Extensions:
   GitHub by KristerPeter, and
   GitHub Pull Requests and Issues by GitHub
   
+
+ER Diagram: https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
+
   
 Build Instructions:
   (coming soon)
