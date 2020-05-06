@@ -1,0 +1,10 @@
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('1','description 1', '18',  '1',  '1');
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('2','description 2', '29',  '1',  '0');
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('3','description 3', '18',  '1',  '0');
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('4','description 4', '117',  '1',  '0');
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('5','description 1', '128',  '2',  '1');
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('6','description 2', '117',  '2',  '1');
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('7','description 3', '128',  '2',  '0');
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('8','description 1', '172',  '3',  '1');
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('9','description 2', '172',  '3',  '0');
+INSERT INTO `G7AgileExperience`.`Skill` ('skillID', 'description', 'siID', 'skillListID', 'isLearned') VALUES ('10','description 3', '186',  '3',  '0');
