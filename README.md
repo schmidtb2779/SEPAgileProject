@@ -1,4 +1,4 @@
-AGILE EXPERIENCE PROJECT: Group 7
+AGILE EXPERIENCE: Group 7
 
 CS-358 - Software Engineering Principles
 
