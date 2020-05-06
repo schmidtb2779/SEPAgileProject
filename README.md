@@ -5,7 +5,7 @@ CS-358 - Software Engineering Principles
 Spring 2020
 
 
-Goal: Design a fully functioning system that allows professors and student instructors to easily grade and re-grade student labs, view      and add notes attached to the labs, and view the skills checklists for the section while grading the lab.
+Goal: Design a fully functioning system that allows professors and student instructors to easily grade and re-grade student labs, view      and add notes attached to the labs, and view the skills checklists for the section the lab belongs to.
 
 
 Group Members:
