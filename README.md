@@ -41,7 +41,7 @@ ER Diagram: https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20
   
 Database Build Instructions:
 
-  1.) Create database and tables in MySQL Workbench by running the script in MySQL:
+  1.) Create database and tables in MySQL Workbench by running the script (linked below) in MySQL:
    https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database%20Build%20Instructions
           
  2.) After the tables have been created, load the table data by running these scripts:
