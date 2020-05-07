@@ -8,7 +8,7 @@ Spring 2020
 Goal:
 -----
 
-Design a fully functioning system that allows professors and student instructors to easily grade and re-grade student labs, view   and add notes attached to the labs, and view the skills checklists for the section the lab belongs to.
+- Design a fully functioning system that allows professors and student instructors to easily grade and re-grade student labs, view   and add notes attached to the labs, and view the skills checklists for the section the lab belongs to.
 
 
 Group Members:
@@ -60,12 +60,11 @@ https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
 **Program Files/Source Code Build Instructions:**
 
   While we used Visual Studio Code, one should be able to use any source code editor that handles HTML, CSS, php, and Javascript files. 
-  1. Once an editor is chosen, EITHER 
+  1. Once an editor is chosen, **EITHER** 
   
-  2. (a) Clone this repository into the editor if GitHub is supported or 
+  2. (a) Clone this repository into the editor if GitHub is supported **OR** 
   
-  2. (b) Download all of the files (15 in total) saved in the folder linked below, ensuring that all file names remain the same. Once all the files are downloaded, add them into the code editor.
-  https://github.com/schmidtb2779/SEPAgileProject/tree/master/Visual_Studio_Code_Files
-
+     (b) Download all of the files (15 in total) saved in the folder linked below, ensuring that all file names remain the same. Once            all the files are downloaded, add them into the code editor.
+         https://github.com/schmidtb2779/SEPAgileProject/tree/master/Visual_Studio_Code_Files
 
   3. Once the database has been setup and all files are in the source code editor, our whole project will have been replicated.
