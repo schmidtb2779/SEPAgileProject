@@ -45,9 +45,9 @@ Visual Studio Code Extensions:
 
 ER Diagram: 
 -----------
-[Final ER Diagram](/Final_ER_Diagram)
+[Final ER Diagram](/Final_ER_Diagram/ERDiagramFinal.pdf)
 
-![Image description](Final_ER_Diagram/ERDiagramFinal.pdf)
+![Image description](/Final_ER_Diagram/ERDiagramFinal.pdf)
 
 
 # Build Instructions
