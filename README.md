@@ -51,7 +51,7 @@ ER Diagram:
   
 **1. Database Build Instructions:**
 
-  1. Create the database and tables in MySQL Workbench by running the script (linked below) in MySQL: [Database Creation Scripts](https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database_Build_Instructions)      
+  1. Create the database and tables in MySQL Workbench by running the script (linked below) in MySQL: [Database Creation Scripts](/Database_Build_Instructions)      
   2. After the tables have been created, load the table data by running these scripts: [Database Data Scripts](/sql_scripts)
  
  
@@ -62,7 +62,7 @@ ER Diagram:
   
   2. **(a)** Clone this repository into the editor if GitHub is supported **OR** 
   
-     **(b)** Download all of the files (15 in total) saved in this [folder](https://github.com/schmidtb2779/SEPAgileProject/tree/master/Visual_Studio_Code_Files), ensuring that all file names remain the same. Once all the files are downloaded, add them into the source code editor.
+     **(b)** Download all of the files (15 in total) saved in this [folder](/Visual_Studio_Code_Files), ensuring that all file names remain the same. Once all the files are downloaded, add them into the source code editor.
          
 
   3. Once the database has been setup and all files are in the source code editor, our whole project will have been replicated.
