@@ -13,33 +13,33 @@ Goal:
 
 Group Members:
 -------------
-  1. Kendra Aumann-Weyenberg (Scrum Master),
-  2. Brandon Schmidt (Tech Lead),
-  3. Libby Walther (Product Owner),
-  4. Tanner Bakken,
-  5. Adam Crane,
-  6. Michael Lee, and
+  1. Kendra Aumann-Weyenberg (Scrum Master)
+  2. Brandon Schmidt (Tech Lead)
+  3. Libby Walther (Product Owner)
+  4. Tanner Bakken
+  5. Adam Crane
+  6. Michael Lee
   7. Casey Reiner
 
 
 Completed Functionality:
 ------------------------
-  - Search by Student Name, Professor Name, or Class,
-  - Grade and re-grade student labs using a point score within a range or Complete/Incomplete value,
-  - View, enter, and delete lab notes, and
+  - Search by Student Name, Professor Name, or Class
+  - Grade and re-grade student labs using a point score within a range or Complete/Incomplete value
+  - View, enter, and delete lab notes
   - View and check off skills that are stored in a skills list for each class section
   
   
 Software Used:
 --------------
-  - MySQL Workbench with a Maria Database,
-  - FileZilla to access the server, and 
+  - MySQL Workbench with a Maria Database
+  - FileZilla to access the server
   - Visual Studio Code (php, JavaScript, HTML) for web pages and database interactions
   
 Visual Studio Code Extensions:
 ------------------------------
-  - ESLint by Dirk Baeumer,
-  - GitHub by KristerPeter, and
+  - ESLint by Dirk Baeumer
+  - GitHub by KristerPeter
   - GitHub Pull Requests and Issues by GitHub
   
 
