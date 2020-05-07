@@ -49,7 +49,7 @@ https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
 
 # Build Instructions
   
-**Database Build Instructions:**
+**1. Database Build Instructions:**
 
   1. Create the database and tables in MySQL Workbench by running the script (linked below) in MySQL:
   https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database_Build_Instructions      
@@ -57,7 +57,7 @@ https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
   https://github.com/schmidtb2779/SEPAgileProject/tree/master/sql_scripts
  
  
-**Program Files/Source Code Build Instructions:**
+**2. Program Files/Source Code Build Instructions:**
 
   - **NOTE:** While we used Visual Studio Code, one should be able to use any source code editor that handles HTML, CSS, php, and Javascript files. 
   1. Once a source code editor is chosen, **EITHER** 
