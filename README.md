@@ -59,7 +59,7 @@ https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
  
 **Program Files/Source Code Build Instructions:**
 
-  - While we used Visual Studio Code, one should be able to use any source code editor that handles HTML, CSS, php, and Javascript files. 
+  - **NOTE:** While we used Visual Studio Code, one should be able to use any source code editor that handles HTML, CSS, php, and Javascript files. 
   1. Once a source code editor is chosen, **EITHER** 
   
   2. **(a)** Clone this repository into the editor if GitHub is supported **OR** 
