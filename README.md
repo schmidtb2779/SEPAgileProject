@@ -47,7 +47,7 @@ ER Diagram:
 -----------
 [Final ER Diagram](/Final_ER_Diagram/ERDiagramFinal.pdf)
 
-![Image description](/Final_ER_Diagram/ERDiagramFinal.pdf)
+![Image description](/Final_ER_Diagram/ERDiagramFinal.jpg)
 
 
 # Build Instructions
