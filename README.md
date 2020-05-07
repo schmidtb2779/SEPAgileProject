@@ -45,18 +45,14 @@ Visual Studio Code Extensions:
 
 ER Diagram: 
 -----------
-[Final ER Diagram](/Final%20ER%20Diagram)
-
-https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
+[Final ER Diagram](https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram)
 
 # Build Instructions
   
 **1. Database Build Instructions:**
 
-  1. Create the database and tables in MySQL Workbench by running the script (linked below) in MySQL:
-  https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database_Build_Instructions      
-  2. After the tables have been created, load the table data by running these scripts:
-  https://github.com/schmidtb2779/SEPAgileProject/tree/master/sql_scripts
+  1. Create the database and tables in MySQL Workbench by running the script (linked below) in MySQL: [Database Creation Scripts](https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database_Build_Instructions)      
+  2. After the tables have been created, load the table data by running these scripts: [Database Data Scripts](https://github.com/schmidtb2779/SEPAgileProject/tree/master/sql_scripts)
  
  
 **2. Program Files/Source Code Build Instructions:**
@@ -66,7 +62,7 @@ https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
   
   2. **(a)** Clone this repository into the editor if GitHub is supported **OR** 
   
-     **(b)** Download all of the files (15 in total) saved in the folder linked below, ensuring that all file names remain the same.      Once all the files are downloaded, add them into the code editor.
-         https://github.com/schmidtb2779/SEPAgileProject/tree/master/Visual_Studio_Code_Files
+     **(b)** Download all of the files (15 in total) saved in this [folder](https://github.com/schmidtb2779/SEPAgileProject/tree/master/Visual_Studio_Code_Files) linked below, ensuring that all file names remain the same. Once all the files are downloaded, add them into the code editor.
+         
 
   3. Once the database has been setup and all files are in the source code editor, our whole project will have been replicated.
