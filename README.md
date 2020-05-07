@@ -59,9 +59,9 @@ Visual Studio Code Extensions:
   While we used Visual Studio Code, one should be able to use any source code editor that handles HTML, CSS, php, and Javascript files. 
   Once an editor is chosen, EITHER 
   
-  (A) Clone this repository into the editor if GitHub is supported or 
+  A. Clone this repository into the editor if GitHub is supported or 
   
-  (B) Download all of the files (15 in total) saved in the folder linked below, ensuring that all file names remain the same. Once all 
+  B. Download all of the files (15 in total) saved in the folder linked below, ensuring that all file names remain the same. Once all 
   the files are downloaded, add them into the code editor.
   https://github.com/schmidtb2779/SEPAgileProject/tree/master/Visual_Studio_Code_Files
 
