@@ -18,4 +18,7 @@ INSERT INTO `G7AgileExperience`.`Lab` (`idLab`, `Name`, `GradeType`, `sectionID`
 INSERT INTO `G7AgileExperience`.`Lab` (`idLab`, `Name`, `GradeType`, `sectionID`, `classID`, `noteSheetID`) VALUES ('3343', 'TEST Lab 318', '1', '3', '118', '318');
 INSERT INTO `G7AgileExperience`.`Lab` (`idLab`, `Name`, `GradeType`, `sectionID`, `classID`, `noteSheetID`) VALUES ('3352', 'TEST Lab 319', '1', '4', '119', '319');
 INSERT INTO `G7AgileExperience`.`Lab` (`idLab`, `Name`, `GradeType`, `sectionID`, `classID`, `noteSheetID`) VALUES ('3361', 'TEST Lab 320', '2', '1', '120', '320');
-
+INSERT INTO `G7AgileExperience`.`Lab` (`idLab`, `Name`, `GradeType`, `sectionID`, `classID`, `noteSheetID`) VALUES ('3362', 'TEST Lab 321', '3', '1', '120', '321');
+INSERT INTO `G7AgileExperience`.`Lab` (`idLab`, `Name`, `GradeType`, `sectionID`, `classID`, `noteSheetID`) VALUES ('3363', 'TEST Lab 322', '3', '2', '120', '322');
+INSERT INTO `G7AgileExperience`.`Lab` (`idLab`, `Name`, `GradeType`, `sectionID`, `classID`, `noteSheetID`) VALUES ('3364', 'TEST Lab 323', '3', '3', '120', '323');
+INSERT INTO `G7AgileExperience`.`Lab` (`idLab`, `Name`, `GradeType`, `sectionID`, `classID`, `noteSheetID`) VALUES ('3365', 'TEST Lab 324', '3', '4', '120', '324');
