@@ -45,7 +45,10 @@ Visual Studio Code Extensions:
 
 ER Diagram: 
 -----------
-[Final ER Diagram](https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram)
+[Final ER Diagram](/Final_ER_Diagram)
+
+![Image description](Final_ER_Diagram/ERDiagramFinal.pdf)
+
 
 # Build Instructions
   
