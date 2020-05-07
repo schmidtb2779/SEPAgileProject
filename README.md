@@ -49,7 +49,8 @@ Database Build Instructions:
  
 Program Files/Source Code Build Instructions:
 
-  While we used Visual Studio Code, one should be able to use any source code editor that handles HTML, CSS, php, and Javascript files.   Once a software is selected, either (A) Clone this repository into the editor if GitHub is supported or (B) Download all of the files   saved in the folder linked below, ensuring all names stay the same. Once all the files are downloaded, add them into the code editor.
+  While we used Visual Studio Code, one should be able to use any source code editor that handles HTML, CSS, php, and Javascript files.   Once an editor is chosen, either (A) Clone this repository into the editor if GitHub is supported or (B) Download all of the files    
+  saved in the folder linked below, ensuring all names stay the same. Once all the files are downloaded, add them into the code editor.
   https://github.com/schmidtb2779/SEPAgileProject/tree/master/Visual_Studio_Code_Files
 
 
