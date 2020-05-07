@@ -1,3 +1,3 @@
-INSERT INTO `G7AgileExperience`.`SkillList` ('skillListID', 'siID') VALUES ('1','18');
-INSERT INTO `G7AgileExperience`.`SkillList` ('skillListID', 'siID') VALUES ('2','29');
-INSERT INTO `G7AgileExperience`.`SkillList` ('skillListID', 'siID') VALUES ('3','117');
+INSERT INTO `G7AgileExperience`.`SkillList` ('skillListID') VALUES ('1');
+INSERT INTO `G7AgileExperience`.`SkillList` ('skillListID') VALUES ('2');
+INSERT INTO `G7AgileExperience`.`SkillList` ('skillListID') VALUES ('3');
