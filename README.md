@@ -1,13 +1,12 @@
-AGILE EXPERIENCE: Group 7
--------------------------
+# AGILE EXPERIENCE: Group 7
 
 CS-358 - Software Engineering Principles
 
 Spring 2020
 
+# Project Information
+**Goal:
 
-Goal:
------
 Design a fully functioning system that allows professors and student instructors to easily grade and re-grade student labs, view   and add notes attached to the labs, and view the skills checklists for the section the lab belongs to.
 
 
@@ -43,7 +42,9 @@ Visual Studio Code Extensions:
   - GitHub Pull Requests and Issues by GitHub
   
 
-**ER Diagram:** https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
+**ER Diagram:** 
+
+https://github.com/schmidtb2779/SEPAgileProject/tree/master/Final%20ER%20Diagram
 
 # Build Instructions
   
@@ -56,14 +57,15 @@ Visual Studio Code Extensions:
  
  
 **Program Files/Source Code Build Instructions:**
+
   While we used Visual Studio Code, one should be able to use any source code editor that handles HTML, CSS, php, and Javascript files. 
-  Once an editor is chosen, EITHER 
+  1. Once an editor is chosen, EITHER 
   
-  A. Clone this repository into the editor if GitHub is supported or 
+  2.a Clone this repository into the editor if GitHub is supported or 
   
-  B. Download all of the files (15 in total) saved in the folder linked below, ensuring that all file names remain the same. Once all 
+  2.b Download all of the files (15 in total) saved in the folder linked below, ensuring that all file names remain the same. Once all 
   the files are downloaded, add them into the code editor.
   https://github.com/schmidtb2779/SEPAgileProject/tree/master/Visual_Studio_Code_Files
 
 
-  Once the database has been setup and all files are in the source code editor, our whole project will have been replicated.
+  3. Once the database has been setup and all files are in the source code editor, our whole project will have been replicated.
