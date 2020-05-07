@@ -43,7 +43,6 @@ Database Build Instructions:
 
   1.) Create the database and tables in MySQL Workbench by running the script (linked below) in MySQL:
   https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database_Build_Instructions
-   https://github.com/schmidtb2779/SEPAgileProject/tree/master/Database%20Build%20Instructions
           
  2.) After the tables have been created, load the table data by running these scripts:
  https://github.com/schmidtb2779/SEPAgileProject/tree/master/sql_scripts
