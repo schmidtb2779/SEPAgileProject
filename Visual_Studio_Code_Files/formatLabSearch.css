@@ -1,0 +1,48 @@
+.header {
+    padding: 20px;
+    background: #004890;
+}
+
+.headerText {
+    text-align: center;
+    color: white;
+}
+
+body { 
+    background: url(StoutImageTwo.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: 20px;
+}
+#submitSearch{
+    font-size: 20px;
+}
+textarea{
+    font-size: 20px;
+}
+#labGrade{
+    font-size: 20px;
+}
+#classGrade{
+    font-size: 20px;
+}
+.align-center {
+	display: block;
+	margin: 1.0em auto;
+	width: 360px;
+	height: 50%;
+	background: white;
+	padding-top: 20px;
+	padding-right: 70px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	border-radius: 20px;
+  	border: 2px solid black;
+}
+
+.invisibleBackground {
+    padding: 50px;
+    opacity: 0;
+}

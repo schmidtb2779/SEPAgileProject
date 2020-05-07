@@ -1,0 +1,36 @@
+#notes{
+    width: auto;
+    min-width: 400px;
+    max-width: 1200px;
+    background-color: #9cb2cc;
+    font-size: 25px;
+    overflow: auto;
+    padding: 10px;
+}
+option{
+    padding: 5px;
+}
+input{    
+    font-size: 20px;
+}
+h1{
+    font-size: 30px;
+    color:white;
+}
+p{
+    color:white;
+}
+body { 
+    font-size: 20px;
+    overflow: auto;
+    padding: 15px;
+    background: url(StoutImageFour.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+}

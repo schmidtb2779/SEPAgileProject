@@ -1,0 +1,34 @@
+/*
+This formats the home page (login page)
+Somehow this file doesn't seem to be updating sometimes?
+*/
+
+p {
+	color:black;
+	text-align:center;
+}
+
+fieldset {
+  	margin: 0px auto;
+  	padding: 10px;
+  	width:400px;
+}
+
+legend {
+	font-weight: bold;
+	text-align: center;
+}
+
+button {
+	text-align:center;
+	width: 100px;
+  	margin: 0 auto;
+}
+/*
+.align-center {
+	display: block;
+	margin: 1.0em auto;
+	text-align: center;
+}*/
+
+

@@ -1,0 +1,107 @@
+
+.header {
+    background: #004890;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+body { 
+    background: url(StoutImageThree.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: 20px;
+}
+#selectStudent{
+    padding: 25px;
+}
+table.noteDesc{
+    padding: 5px;
+    padding-left: 4px;
+    padding-top: 0px;
+    background-color: rgba(255,255,255,0.9);
+    min-width: 100%;
+}
+td.noteDesc{
+    border-bottom:2px solid;
+    padding-bottom: 5px;
+}
+th{
+    text-align: left;
+    border-bottom-style: solid;
+}
+#notes{
+    padding: 5px;
+    padding-top: .1px;
+}
+#buttonsNText{
+    background-color: rgba(255,255,255,0.8);
+    padding-left: 4px;
+}
+button{
+    font-size: 20px;
+}
+.skills{
+    font-size:20px;
+    display: block;
+    width: 300px;
+    margin: 1.0em auto;
+    background-color: rgba(0,72,144, 0.8);
+    padding: 50px;
+    padding-top: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    color: white
+}
+
+#addGrade{
+    font-size: 20px;
+}
+input{
+    font-size: 20px;
+}
+textarea{
+    font-size: 20px;
+    resize: none;
+}
+.left {
+    float: left;
+    padding-left:200px;
+}
+
+.right {
+    float: right;
+    width: 50%;
+}
+#enterGrade{
+    padding: 50px;
+    padding-top: 10px;
+    display: block;
+    margin: 1.0em auto;
+    background-color: rgba(0,72,144, 0.9);
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    color: white
+}
+td.labDesc{
+    border: none;
+    padding-top: 0px;
+    padding-right: 5px;
+}
+tr.labDesc{
+    border: none;
+    padding: 0px;
+    width: auto;
+}
+table.labDesc{
+    border: none;
+    padding: 0px;
+    width: auto;
+}
+labNotesClass{
+    display: block;
+    margin: 1.0em auto;
+}

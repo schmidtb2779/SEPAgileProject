@@ -1,0 +1,78 @@
+<!-- Agile Experience Group 7 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" type="text/css" href="formatMain.css"/>
+
+    <!-- for some reason the css formatMain file wasn't letting me update it so I'm formatting in the same file for now-->
+    <!-- this should eventually be moved to css file-->
+    <style>
+        .header {
+        padding: 20px;
+        background: #004890;
+        }
+        .headerText {
+        text-align: center;
+        color: white;
+        }
+        body { 
+        background: url(StoutImageOne.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        }
+        .formBackground {
+        border-radius: 10px;
+        background: white;
+        }
+        .align-center {
+        display: block;
+        margin: 1.0em auto;
+        width: 450px;
+        text-align: center;
+        border-radius: 10px;
+        border: 2px solid black;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        }
+        .invisibleBackground {
+        padding: 100px;
+        opacity: 0;
+        }
+    </style>
+
+    <title>Home Page</title>
+    <script src="loginMethod.php" type="text/php"></script>
+</head>
+<body>
+    
+    <div class = "header">
+    <h1 class = "headerText"> Agile Experience Group 7 </h1>
+    </div>
+
+    <!--Figured out how to align horizontal but wasn't able to align vertically so this is a way around that for now-->
+    <div class = "invisibleBackground"></div>
+    
+    <div>
+        <form name="loginForm" action = "labSearch.php" method="post">
+            <fieldset class="align-center formBackground">
+                <!--action = "labSearch.php"
+                    At this point the username and password doesn't matter because this is a template login page-->
+                <legend class = "formBackground">Login to the Grading System</legend>
+                <br />
+                <label for="name" id="namelabel" style="font-weight:bold;">Name:</label> 
+                <input type="text" name="name" id="name" size="45" />
+                <br />
+                <br />
+                <label for="name" id="namelabel" style="font-weight:bold;">Password:</label> 
+                <input type="text" style="-webkit-text-security: disc;" name="password" id="password" size="42"/>
+                <br />
+                <br />
+                <br />
+                <input type= "submit" name = "Login" value="Login" style="font-size: 15px"/>
+            </fieldset>
+        </form>
+    </div>
+</body>
+</html>
